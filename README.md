@@ -71,6 +71,3 @@ A **complete one-stop repository** for GATE 2026 aspirants. This repo is designe
 
 ⚡ With this repo, you’ll never run out of high-quality study material for **GATE 2026**.
 
----
-
-👉 Do you want me to make this as a **ready-made `README.md` file** (formatted for GitHub with emojis, links, headings, etc.) so you can just upload it directly?
